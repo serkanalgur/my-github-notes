@@ -46,6 +46,9 @@ ___
 - [React](https://github.com/facebook/react)
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer)
 - [WordExpress](https://github.com/ramsaylanier/WordExpress)
+- [CardKit](https://github.com/times/cardkit)
+- [jargon.ist](https://github.com/jargonist/jargon.ist)
+- [Driver.js](https://github.com/kamranahmedse/driver.js)
 
 ### JavaScript Projects
 
