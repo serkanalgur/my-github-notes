@@ -36,10 +36,10 @@ ___
 
 ### Node.js Projects
 
-[Gatsby](https://github.com/gatsbyjs/gatsby)
-[React](https://github.com/facebook/react)
-[Puppeteer](https://github.com/GoogleChrome/puppeteer)
-[WordExpress](https://github.com/ramsaylanier/WordExpress)
+- [Gatsby](https://github.com/gatsbyjs/gatsby)
+- [React](https://github.com/facebook/react)
+- [Puppeteer](https://github.com/GoogleChrome/puppeteer)
+- [WordExpress](https://github.com/ramsaylanier/WordExpress)
 
 ### JavaScript Projects
 
