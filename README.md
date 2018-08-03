@@ -25,6 +25,7 @@ Collection of projects, posts, repos which i like to use and read.
 - [Build a Node.js API in Under 30 Minutes](https://medium.freecodecamp.org/building-a-simple-node-js-api-in-under-30-minutes-a07ea9e390d2)
 - [How I automated my job with Node.js](https://medium.com/dailyjs/how-i-automated-my-job-with-node-js-94bf4e423017)
 - [Build simple Medium.com on Node.js and React.js](https://codeburst.io/build-simple-medium-com-on-node-js-and-react-js-a278c5192f47)
+- [Migrating from PHP to Node.js](https://medium.com/get-outside/migrating-from-php-to-node-js-522768ac482a)
 
 ### JavaScript
 
