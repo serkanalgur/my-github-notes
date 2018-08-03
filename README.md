@@ -12,6 +12,7 @@ Collection of projects, posts, repos which i like to use and read.
 - [Projects](#projects)
   - [PHP Projects](#php-projects)
   - [Node.js Projects](#nodejs-projects)
+  - [JavaScript Projects](#javascript-projects)
 
 ## Posts
 
@@ -31,4 +32,15 @@ ___
 
 ### PHP Projects
 
+[WordPress](https://github.com/WordPress/WordPress)
+
 ### Node.js Projects
+
+[Gatsby](https://github.com/gatsbyjs/gatsby)
+[React](https://github.com/facebook/react)
+[Puppeteer](https://github.com/GoogleChrome/puppeteer)
+[WordExpress](https://github.com/ramsaylanier/WordExpress)
+
+### JavaScript Projects
+
+[fuzzysearch](https://github.com/bevacqua/fuzzysearch)
