@@ -5,11 +5,11 @@ Collection of projects, posts, repos which i like to use and read.
 ## Contents
 
 -[Posts](#posts)
- -[PHP](#php)
- -[Node.js](#nodejs)
+	-[PHP](#php)
+	-[Node.js](#nodejs)
 -[Projects](#projects)
- -[PHP Projects](#php-projects)
- -[Node.js Projects](#nodejs-projects)
+	-[PHP Projects](#php-projects)
+	-[Node.js Projects](#nodejs-projects)
 
 ## Posts
 
