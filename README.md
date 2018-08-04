@@ -86,4 +86,4 @@ ___
 ### My JavaScript Projects
 
 - [Bootswitch](https://github.com/serkanalgur/bootswitch)
-  -[Demo](http://serkanalgur.github.io/bootswitch/)
+  - [Demo](http://serkanalgur.github.io/bootswitch/)
