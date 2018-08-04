@@ -1,4 +1,4 @@
-# My Github Notes
+# My Github Notes (a.k.a Notebook)
 
 Collection of projects, posts, repos which i like to use and read.
 
