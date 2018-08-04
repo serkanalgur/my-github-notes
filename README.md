@@ -13,10 +13,19 @@ Collection of projects, posts, repos which i like to use and read.
   - [PHP Projects](#php-projects)
   - [Node.js Projects](#nodejs-projects)
   - [JavaScript Projects](#javascript-projects)
+- [My Projects](#my-projects)
+  - [My PHP Projects](#my-php-projects)
+  - [My Node.js Projects](#my-nodejs-projects)
+  - [My JavaScript Projects](#my-javascript-projects)
 
 ## Posts
 
 ### PHP
+
+- [Object-Oriented PHP for Beginners](https://code.tutsplus.com/tutorials/object-oriented-php-for-beginners--net-12762)
+- [Speed Up Your WordPress bt Caching Custom Queries using Transient API](https://www.wpbeginner.com/wp-tutorials/speed-up-your-wordpress-by-caching-custom-queries-using-transients-api/)
+- [PHP Optimization – Using A Timer To Benchmark Code And Increase Speed](https://davidwalsh.name/php-timer-benchmark)
+- [Send Text Messages with PHP](https://davidwalsh.name/send-text-message)
 
 ### Node.js
 
@@ -40,6 +49,10 @@ ___
 ### PHP Projects
 
 - [WordPress](https://github.com/WordPress/WordPress)
+- [Flight](https://github.com/mikecao/flight)
+- [Phalcon](https://github.com/phalcon/cphalcon)
+  - [Phalcon Forum](https://github.com/phalcon/forum)
+- [PHP Code Sniffer](https://github.com/squizlabs/PHP_CodeSniffer)
 
 ### Node.js Projects
 
@@ -50,7 +63,27 @@ ___
 - [CardKit](https://github.com/times/cardkit)
 - [jargon.ist](https://github.com/jargonist/jargon.ist)
 - [Driver.js](https://github.com/kamranahmedse/driver.js)
+- [Blueprint](https://github.com/palantir/blueprint)
 
 ### JavaScript Projects
 
 - [fuzzysearch](https://github.com/bevacqua/fuzzysearch)
+
+___
+
+## My Projects
+
+### My PHP Projects
+
+- [CMB2 Field Type: Font Awesome](https://github.com/serkanalgur/cmb2-field-faiconselect)
+  - [WordPress Plugin](https://wordpress.org/plugins/cmb2-field-type-font-awesome/)
+
+### My Node.js Projects
+
+- [gatsby-remark-embed-wordpress](https://github.com/serkanalgur/gatsby-remark-embed-wordpress)
+  - [npm page](https://www.npmjs.com/package/gatsby-remark-embed-wordpress)
+
+### My JavaScript Projects
+
+- [Bootswitch](https://github.com/serkanalgur/bootswitch)
+  -[Demo](http://serkanalgur.github.io/bootswitch/)
