@@ -53,6 +53,7 @@ ___
 - [Phalcon](https://github.com/phalcon/cphalcon)
   - [Phalcon Forum](https://github.com/phalcon/forum)
 - [PHP Code Sniffer](https://github.com/squizlabs/PHP_CodeSniffer)
+- [Bullet PHP](https://github.com/vlucas/bulletphp)
 
 ### Node.js Projects
 
@@ -64,6 +65,8 @@ ___
 - [jargon.ist](https://github.com/jargonist/jargon.ist)
 - [Driver.js](https://github.com/kamranahmedse/driver.js)
 - [Blueprint](https://github.com/palantir/blueprint)
+- [Chalk](https://github.com/chalk/chalk)
+- [GraphQL.js](https://github.com/graphql/graphql-js)
 
 ### JavaScript Projects
 
