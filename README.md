@@ -26,6 +26,13 @@ Collection of projects, posts, repos which i like to use and read.
 - [Speed Up Your WordPress bt Caching Custom Queries using Transient API](https://www.wpbeginner.com/wp-tutorials/speed-up-your-wordpress-by-caching-custom-queries-using-transients-api/)
 - [PHP Optimization – Using A Timer To Benchmark Code And Increase Speed](https://davidwalsh.name/php-timer-benchmark)
 - [Send Text Messages with PHP](https://davidwalsh.name/send-text-message)
+- [Comment Submission Without Page Refresh. No Plugins Used.](https://rudrastyh.com/wordpress/ajax-comments.html)
+- [How to customise a Privacy Policy Guide](https://rudrastyh.com/wordpress/privacy-policy-guide.html)
+- WordPress İçin Eklenti Yazmak
+  - [WordPress için eklenti yazmak](https://wpadami.com/cms-sistemleri/wordpress/wordpress-icin-eklenti-yazmak.html)
+  - [WordPress için eklenti yazmak - 2](https://wpadami.com/cms-sistemleri/wordpress/wordpress-icin-eklenti-yazmak-2.html)
+  - [WordPress için eklenti yazmak - 3](https://wpadami.com/cms-sistemleri/wordpress/wordpress-icin-eklenti-yazmak-3.html)
+  - [WordPress için eklenti yazmak - 4](https://wpadami.com/cms-sistemleri/wordpress/wordpress-icin-eklenti-yazmak-4.html)
 
 ### Node.js
 
